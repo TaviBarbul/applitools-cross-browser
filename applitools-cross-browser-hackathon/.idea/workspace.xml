@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9fc1591e-5ec2-4b3f-9e13-a490778c5229" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cdWflpjw3UTWO8we8q6m6nyxUg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+      <recent name="$PROJECT_DIR$/src/test/java/utils" />
+      <recent name="C:\Users\Mihai\IdeaProjects\applitools-cross-browser-hackathon\src\test\java\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG./Users/ioan.cimpean/Automation/applitools-cross-browser-hackathon 4/src/test/resources/TraditionalTestSuitesV2.xml">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="applitools-cross-browser-hackathon" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <module name="applitools-cross-browser-hackathon" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="GRID_IP=localhost" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="UltraFastGridTests.task1CrossDeviceElementsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applitools-cross-browser-hackathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.modern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.modern" />
+      <option name="MAIN_CLASS_NAME" value="tests.modern.UltraFastGridTests" />
+      <option name="METHOD_NAME" value="task1CrossDeviceElementsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UltraFastGridTests.task2ShoppingExperienceTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applitools-cross-browser-hackathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.modern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.modern" />
+      <option name="MAIN_CLASS_NAME" value="tests.modern.UltraFastGridTests" />
+      <option name="METHOD_NAME" value="task2ShoppingExperienceTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UltraFastGridTests.task3ProductDetailsTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applitools-cross-browser-hackathon" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.modern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests.modern" />
+      <option name="MAIN_CLASS_NAME" value="tests.modern.UltraFastGridTests" />
+      <option name="METHOD_NAME" value="task3ProductDetailsTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ioan.cimpean/Automation/applitools-cross-browser-hackathon 4/src/test/resources/TraditionalTestSuitesV1.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applitools-cross-browser-hackathon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TraditionalTestSuitesV1.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="/Users/ioan.cimpean/Automation/applitools-cross-browser-hackathon 4/src/test/resources/TraditionalTestSuitesV2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="applitools-cross-browser-hackathon" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/TraditionalTestSuitesV2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG./Users/ioan.cimpean/Automation/applitools-cross-browser-hackathon 4/src/test/resources/TraditionalTestSuitesV2.xml" />
+        <item itemvalue="TestNG./Users/ioan.cimpean/Automation/applitools-cross-browser-hackathon 4/src/test/resources/TraditionalTestSuitesV1.xml" />
+        <item itemvalue="TestNG.UltraFastGridTests.task3ProductDetailsTest" />
+        <item itemvalue="TestNG.UltraFastGridTests.task2ShoppingExperienceTest" />
+        <item itemvalue="TestNG.UltraFastGridTests.task1CrossDeviceElementsTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9fc1591e-5ec2-4b3f-9e13-a490778c5229" name="Default Changelist" comment="" />
+      <created>1590859055528</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590859055528</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="735" y="225" key="#/Users/mihai.barbul/Desktop/applitools-cross-browser-hackathon/src/test/java/utils/TestSuites.xml" timestamp="1594022309734">
+      <screen x="67" y="23" width="1981" height="1129" />
+    </state>
+    <state x="735" y="225" key="#/Users/mihai.barbul/Desktop/applitools-cross-browser-hackathon/src/test/java/utils/TestSuites.xml/67.23.1981.1129@67.23.1981.1129" timestamp="1594022309734" />
+    <state x="548" y="145" key="#Project_Structure" timestamp="1594077611248">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state x="548" y="145" key="#Project_Structure/0.23.2048.1055@0.23.2048.1055" timestamp="1594077611248" />
+    <state x="523" y="248" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1594022461827">
+      <screen x="70" y="23" width="1978" height="1129" />
+    </state>
+    <state x="521" y="248" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.23.1981.1129@67.23.1981.1129" timestamp="1594022370032" />
+    <state x="523" y="248" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/70.23.1978.1129@70.23.1978.1129" timestamp="1594022461827" />
+    <state x="525" y="249" width="1071" height="765" key="#com.intellij.execution.impl.EditConfigurationsDialog/73.23.1975.1129@73.23.1975.1129" timestamp="1593953236087" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593944593680">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593944593680" />
+    <state width="1935" height="306" key="GridCell.Tab.0.bottom" timestamp="1594104943777">
+      <screen x="71" y="23" width="1977" height="1129" />
+    </state>
+    <state width="1864" height="419" key="GridCell.Tab.0.bottom/0.23.2048.1055@0.23.2048.1055" timestamp="1594082189633" />
+    <state width="1933" height="306" key="GridCell.Tab.0.bottom/52.23.1996.1129@52.23.1996.1129" timestamp="1594046669993" />
+    <state width="1933" height="306" key="GridCell.Tab.0.bottom/54.23.1994.1129@54.23.1994.1129" timestamp="1594046816104" />
+    <state width="1933" height="377" key="GridCell.Tab.0.bottom/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067460" />
+    <state width="1933" height="306" key="GridCell.Tab.0.bottom/60.23.1988.1129@60.23.1988.1129" timestamp="1594045480461" />
+    <state width="1933" height="306" key="GridCell.Tab.0.bottom/62.23.1986.1129@62.23.1986.1129" timestamp="1594042423658" />
+    <state width="1933" height="377" key="GridCell.Tab.0.bottom/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100575" />
+    <state width="1933" height="306" key="GridCell.Tab.0.bottom/67.23.1981.1129@67.23.1981.1129" timestamp="1594024077611" />
+    <state width="1933" height="306" key="GridCell.Tab.0.bottom/70.23.1978.1129@70.23.1978.1129" timestamp="1594023967996" />
+    <state width="1935" height="306" key="GridCell.Tab.0.bottom/71.23.1977.1129@71.23.1977.1129" timestamp="1594104943777" />
+    <state width="1935" height="306" key="GridCell.Tab.0.center" timestamp="1594104943776">
+      <screen x="71" y="23" width="1977" height="1129" />
+    </state>
+    <state width="1864" height="419" key="GridCell.Tab.0.center/0.23.2048.1055@0.23.2048.1055" timestamp="1594082189632" />
+    <state width="1933" height="306" key="GridCell.Tab.0.center/52.23.1996.1129@52.23.1996.1129" timestamp="1594046669992" />
+    <state width="1933" height="306" key="GridCell.Tab.0.center/54.23.1994.1129@54.23.1994.1129" timestamp="1594046816104" />
+    <state width="1933" height="377" key="GridCell.Tab.0.center/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067460" />
+    <state width="1933" height="306" key="GridCell.Tab.0.center/60.23.1988.1129@60.23.1988.1129" timestamp="1594045480460" />
+    <state width="1933" height="306" key="GridCell.Tab.0.center/62.23.1986.1129@62.23.1986.1129" timestamp="1594042423657" />
+    <state width="1933" height="377" key="GridCell.Tab.0.center/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100575" />
+    <state width="1933" height="306" key="GridCell.Tab.0.center/67.23.1981.1129@67.23.1981.1129" timestamp="1594024077610" />
+    <state width="1933" height="306" key="GridCell.Tab.0.center/70.23.1978.1129@70.23.1978.1129" timestamp="1594023967996" />
+    <state width="1935" height="306" key="GridCell.Tab.0.center/71.23.1977.1129@71.23.1977.1129" timestamp="1594104943776" />
+    <state width="1935" height="306" key="GridCell.Tab.0.left" timestamp="1594104943776">
+      <screen x="71" y="23" width="1977" height="1129" />
+    </state>
+    <state width="1864" height="419" key="GridCell.Tab.0.left/0.23.2048.1055@0.23.2048.1055" timestamp="1594082189632" />
+    <state width="1933" height="306" key="GridCell.Tab.0.left/52.23.1996.1129@52.23.1996.1129" timestamp="1594046669992" />
+    <state width="1933" height="306" key="GridCell.Tab.0.left/54.23.1994.1129@54.23.1994.1129" timestamp="1594046816103" />
+    <state width="1933" height="377" key="GridCell.Tab.0.left/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067459" />
+    <state width="1933" height="306" key="GridCell.Tab.0.left/60.23.1988.1129@60.23.1988.1129" timestamp="1594045480460" />
+    <state width="1933" height="306" key="GridCell.Tab.0.left/62.23.1986.1129@62.23.1986.1129" timestamp="1594042423657" />
+    <state width="1933" height="377" key="GridCell.Tab.0.left/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100574" />
+    <state width="1933" height="306" key="GridCell.Tab.0.left/67.23.1981.1129@67.23.1981.1129" timestamp="1594024077610" />
+    <state width="1933" height="306" key="GridCell.Tab.0.left/70.23.1978.1129@70.23.1978.1129" timestamp="1594023967995" />
+    <state width="1935" height="306" key="GridCell.Tab.0.left/71.23.1977.1129@71.23.1977.1129" timestamp="1594104943776" />
+    <state width="1935" height="306" key="GridCell.Tab.0.right" timestamp="1594104943777">
+      <screen x="71" y="23" width="1977" height="1129" />
+    </state>
+    <state width="1864" height="419" key="GridCell.Tab.0.right/0.23.2048.1055@0.23.2048.1055" timestamp="1594082189633" />
+    <state width="1933" height="306" key="GridCell.Tab.0.right/52.23.1996.1129@52.23.1996.1129" timestamp="1594046669993" />
+    <state width="1933" height="306" key="GridCell.Tab.0.right/54.23.1994.1129@54.23.1994.1129" timestamp="1594046816104" />
+    <state width="1933" height="377" key="GridCell.Tab.0.right/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067460" />
+    <state width="1933" height="306" key="GridCell.Tab.0.right/60.23.1988.1129@60.23.1988.1129" timestamp="1594045480460" />
+    <state width="1933" height="306" key="GridCell.Tab.0.right/62.23.1986.1129@62.23.1986.1129" timestamp="1594042423658" />
+    <state width="1933" height="377" key="GridCell.Tab.0.right/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100575" />
+    <state width="1933" height="306" key="GridCell.Tab.0.right/67.23.1981.1129@67.23.1981.1129" timestamp="1594024077611" />
+    <state width="1933" height="306" key="GridCell.Tab.0.right/70.23.1978.1129@70.23.1978.1129" timestamp="1594023967996" />
+    <state width="1935" height="306" key="GridCell.Tab.0.right/71.23.1977.1129@71.23.1977.1129" timestamp="1594104943777" />
+    <state width="1864" height="357" key="GridCell.Tab.1.bottom" timestamp="1594078830691">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state width="1864" height="357" key="GridCell.Tab.1.bottom/0.23.2048.1055@0.23.2048.1055" timestamp="1594078830691" />
+    <state width="1864" height="357" key="GridCell.Tab.1.bottom/0.23.2048.1056@0.23.2048.1056" timestamp="1594074893306" />
+    <state width="1933" height="377" key="GridCell.Tab.1.bottom/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067461" />
+    <state width="1933" height="377" key="GridCell.Tab.1.bottom/62.23.1986.1129@62.23.1986.1129" timestamp="1594041990328" />
+    <state width="1933" height="377" key="GridCell.Tab.1.bottom/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100576" />
+    <state width="1933" height="377" key="GridCell.Tab.1.bottom/67.23.1981.1129@67.23.1981.1129" timestamp="1594020813167" />
+    <state width="1933" height="377" key="GridCell.Tab.1.bottom/71.23.1977.1129@71.23.1977.1129" timestamp="1593954248942" />
+    <state width="1864" height="357" key="GridCell.Tab.1.center" timestamp="1594078830691">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state width="1864" height="357" key="GridCell.Tab.1.center/0.23.2048.1055@0.23.2048.1055" timestamp="1594078830691" />
+    <state width="1864" height="357" key="GridCell.Tab.1.center/0.23.2048.1056@0.23.2048.1056" timestamp="1594074893306" />
+    <state width="1933" height="377" key="GridCell.Tab.1.center/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067460" />
+    <state width="1933" height="377" key="GridCell.Tab.1.center/62.23.1986.1129@62.23.1986.1129" timestamp="1594041990327" />
+    <state width="1933" height="377" key="GridCell.Tab.1.center/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100576" />
+    <state width="1933" height="377" key="GridCell.Tab.1.center/67.23.1981.1129@67.23.1981.1129" timestamp="1594020813167" />
+    <state width="1933" height="377" key="GridCell.Tab.1.center/71.23.1977.1129@71.23.1977.1129" timestamp="1593954248941" />
+    <state width="1864" height="357" key="GridCell.Tab.1.left" timestamp="1594078830691">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state width="1864" height="357" key="GridCell.Tab.1.left/0.23.2048.1055@0.23.2048.1055" timestamp="1594078830691" />
+    <state width="1864" height="357" key="GridCell.Tab.1.left/0.23.2048.1056@0.23.2048.1056" timestamp="1594074893306" />
+    <state width="1933" height="377" key="GridCell.Tab.1.left/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067460" />
+    <state width="1933" height="377" key="GridCell.Tab.1.left/62.23.1986.1129@62.23.1986.1129" timestamp="1594041990327" />
+    <state width="1933" height="377" key="GridCell.Tab.1.left/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100576" />
+    <state width="1933" height="377" key="GridCell.Tab.1.left/67.23.1981.1129@67.23.1981.1129" timestamp="1594020813166" />
+    <state width="1933" height="377" key="GridCell.Tab.1.left/71.23.1977.1129@71.23.1977.1129" timestamp="1593954248941" />
+    <state width="1864" height="357" key="GridCell.Tab.1.right" timestamp="1594078830691">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state width="1864" height="357" key="GridCell.Tab.1.right/0.23.2048.1055@0.23.2048.1055" timestamp="1594078830691" />
+    <state width="1864" height="357" key="GridCell.Tab.1.right/0.23.2048.1056@0.23.2048.1056" timestamp="1594074893306" />
+    <state width="1933" height="377" key="GridCell.Tab.1.right/55.23.1993.1129@55.23.1993.1129" timestamp="1594047067461" />
+    <state width="1933" height="377" key="GridCell.Tab.1.right/62.23.1986.1129@62.23.1986.1129" timestamp="1594041990328" />
+    <state width="1933" height="377" key="GridCell.Tab.1.right/65.23.1983.1129@65.23.1983.1129" timestamp="1594024100576" />
+    <state width="1933" height="377" key="GridCell.Tab.1.right/67.23.1981.1129@67.23.1981.1129" timestamp="1594020813167" />
+    <state width="1933" height="377" key="GridCell.Tab.1.right/71.23.1977.1129@71.23.1977.1129" timestamp="1593954248942" />
+    <state x="573" y="213" key="Maven.ArtifactSearchDialog" timestamp="1594024852848">
+      <screen x="67" y="23" width="1981" height="1129" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590859503333" />
+    <state x="573" y="213" key="Maven.ArtifactSearchDialog/67.23.1981.1129@67.23.1981.1129" timestamp="1594024852848" />
+    <state x="761" y="272" width="598" height="582" key="find.popup" timestamp="1594056459213">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state x="761" y="272" width="598" height="582" key="find.popup/0.23.2048.1055@0.23.2048.1055" timestamp="1594056459213" />
+    <state x="342" y="215" key="new project wizard" timestamp="1591518345451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="215" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591518345451" />
+    <state x="1477" y="271" width="670" height="676" key="search.everywhere.popup" timestamp="1594081596460">
+      <screen x="0" y="23" width="2048" height="1055" />
+    </state>
+    <state x="1477" y="271" width="670" height="676" key="search.everywhere.popup/0.23.2048.1055@0.23.2048.1055" timestamp="1594081596460" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="TestNG">
+        <watch expression="driver()" language="JAVA" />
+        <watch expression="webdriver" language="JAVA" />
+        <watch expression="driver().webDriver" language="JAVA" />
+        <watch expression="driver.webDriver" language="JAVA" />
+        <watch expression="new RemoteWebDriver(new URL(gridUrl), firefoxOptions)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

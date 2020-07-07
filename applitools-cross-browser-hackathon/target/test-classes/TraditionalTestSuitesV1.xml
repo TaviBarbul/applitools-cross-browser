@@ -1,0 +1,93 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="CustomRunTests" verbose="1" configfailurepolicy="continue">
+    <parameter name="fileName" value="Traditional-V1-TestResults.txt"/>
+    <!--  Traditional -->
+    <!--  V1 -->
+    <test name="Tests V1 - Traditional chrome 1200">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="1200"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="chrome"/>
+        <parameter name="device" value="laptop"/>
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+    <test name="Tests V1 - Traditional chrome 768">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="768"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="chrome"/>
+        <parameter name="device" value="tablet"/>
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+
+    <test name="Tests V1 - Traditional chrome 500">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="500"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="chrome"/>
+        <parameter name="device" value="mobile"/>
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+    <test name="Tests V1 - Traditional firefox 1200">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="1200"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="firefox"/>
+        <parameter name="device" value="laptop"/>
+
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+    <test name="Tests V1 - Traditional firefox 768">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="768"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="firefox"/>
+        <parameter name="device" value="tablet"/>
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+    <test name="Tests V1 - Traditional edge 1200">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="1200"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="edge"/>
+        <parameter name="device" value="laptop"/>
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+    <test name="Tests V1 - Traditional edge 768">
+        <parameter name="url" value="http://demo.applitools.com/gridHackathonV1.html"/>
+        <parameter name="width" value="768"/>
+        <parameter name="height" value="700"/>
+        <parameter name="browser" value="edge"/>
+        <parameter name="device" value="tablet"/>
+        <classes>
+            <class name="tests.traditional.ElementsTraditionalTest"></class>
+            <class name="tests.traditional.ShoppingExperienceTest"></class>
+            <class name="tests.traditional.ProductDetailsTest"></class>
+        </classes>
+    </test>
+
+</suite>

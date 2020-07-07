@@ -1,0 +1,252 @@
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: chrome, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: chrome, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: chrome, Viewport: 500X700, Device: mobile, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: firefox, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: firefox, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: edge, Viewport: 1200X700, Device: laptop, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: logo, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: filterBtn, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.id: resetBtn, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: By.xpath: //div[contains(@class,'search_mob')]/input[contains(@id,'INPUTtext')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 1, Test Name: Cross-Device Elements Test, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: By.id: filterBtn, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.id: resetBtn, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 2, Test Name: Filter Results, DOM Id: By.xpath: //a[contains(@href,'ProductDetails')]/../../a/h3, Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to cart' or @data-original-title='Add to cart')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to compare' or @data-original-title='Add to compare')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 2, Test Name: Filter Results, DOM Id: //a[contains(@href,'ProductDetails')]/../../a/h3[text()='%s']/../../ul/li/a[(@title='Add to favorites' or @data-original-title='Add to favorites')], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.id: filterBtn, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: resetBtn, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //label[@class='container_check' and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.id: shoe_name, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: new_price, Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: By.className: nice-select, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Fail
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: //li[contains(@class,'option') and text()='%s'], Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: prod_info, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
+Task: 3, Test Name: Product Details test, DOM Id: By.className: btn_add_to_cart, Browser: edge, Viewport: 768X700, Device: tablet, Status: Pass
